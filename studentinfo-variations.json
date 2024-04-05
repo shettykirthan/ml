@@ -1,0 +1,76 @@
+{
+   "questions_and_answers" :[
+   {
+    "question": "What is the web address for the parent portal of Autonomous/VTU?",
+    "answer": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
+ },
+ {
+    "question": "Where can I locate the login portal for the guardians of Autonomous/VTU students?",
+    "answer": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
+ },
+ {
+    "question": "How can I navigate to the parent access portal for Autonomous/VTU?",
+    "answer": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
+ },
+   {
+      "question": "What is the web address for the parent portal of B.Tech(Nitte University)?",
+      "answer": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
+   },
+   {
+      "question": "Where can I locate the login portal for the guardians of B.Tech(Nitte University) students?",
+      "answer": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
+   },
+   {
+      "question": "How can I navigate to the parent access portal for B.Tech(Nitte University)?",
+      "answer": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
+   },
+      {
+         "question": "What is the name of the mobile application used by students to monitor their academic progress?",
+         "answer": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
+      },
+      {
+         "question": "Which app allows students to track their academic performance?",
+         "answer": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
+      },
+      {
+         "question": "What mobile app do students use to keep track of their academic achievements?",
+         "answer": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
+      },
+         {
+            "question": "What is the URL to view my semester results?",
+            "answer": "Sure, You can check it at http://nmamit.in/result/"
+         },
+         {
+            "question": "Where can I find my semester grades?",
+            "answer": "Sure, You can check it at http://nmamit.in/result/"
+         },
+         {
+            "question": "How can I access my semester scores?",
+            "answer": "Sure, You can check it at http://nmamit.in/result/"
+         },
+            {
+               "question": "What are the digital learning resources available to students through VTU?",
+               "answer": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources for further details visit http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
+            },
+            {
+               "question": "What online educational resources does VTU offer to its students?",
+               "answer": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources for further details visit http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
+            },
+            {
+               "question": "What are the electronic educational resources provided by VTU for students?",
+               "answer": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources for further details visit http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
+            },
+               {
+                  "question": "What are the digital learning resources available to students through NMAMIT?",
+                  "answer": "Moodle, CAEG Youtube channel(1st year subject) http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
+               },
+               {
+                  "question": "What online educational resources does NMAMIT offer to its students?",
+                  "answer": "Moodle, CAEG Youtube channel(1st year subject) http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
+               },
+               {
+                  "question": "What are the electronic educational resources provided by NMAMIT for students?",
+                  "answer": "Moodle, CAEG Youtube channel(1st year subject) http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
+               }
+            ]
+         }
